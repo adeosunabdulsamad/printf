@@ -60,6 +60,4 @@ Handle the following custom conversion specifier:
                                                                                     
 15. *                                                                               
 All the above options work well together.
-Collaborators: Omojuwa Babatunde & MCCHANCE.
 
-Good readme but why not explain the files you created in it?
